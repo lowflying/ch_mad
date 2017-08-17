@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="137972c584d077c4081db66914698b4e094be7da">
+        <dex dex="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea3feabb5e0dca5119f6cf4524865ea3271f31c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="e7b4f1ec133a4a7d98b3eb85436679320ec0a828">
+        <dex dex="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_805d6ef0fe8989166d1cd6f137bb406a4dc6e20b\classes.dex" />
+    </item>
+
+</items>
