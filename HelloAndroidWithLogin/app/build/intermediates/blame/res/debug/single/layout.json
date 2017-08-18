@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registrationscreen.xml",
+        "source": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\src\\main\\res\\layout\\registrationscreen.xml"
+    },
+    {
+        "merged": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginscreen.xml",
+        "source": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\src\\main\\res\\layout\\loginscreen.xml"
+    },
+    {
+        "merged": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\helloandroid.xml",
+        "source": "C:\\ch_mad\\HelloAndroidWithLogin\\app\\src\\main\\res\\layout\\helloandroid.xml"
+    }
+]
