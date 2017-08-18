@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class LoginScreen extends Activity {
+    String regUName = null;
+    String regUPass = null;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,13 +45,29 @@ public class LoginScreen extends Activity {
         registerButton.setOnClickListener(new OnClickListener() {
             public void onClick(View view) {
                 Intent registerUserIntent = new Intent(LoginScreen.this, RegistrationScreen.class);
-                startActivity(registerUserIntent);
+                startActivityForResult(registerUserIntent, 100);
             }
         });
     }
 
     private boolean checkPassword(Editable uname, Editable passwd) {
         // Just pretending to extract text and check password
-        return new Random().nextBoolean();
+        if(regUPass != null && regUPass != null){
+            if(uname.toString() == regUName && passwd.toString() == regUPass){
+                return true;
+            }else {
+                return false;
+            }
+        }else {
+            return new Random().nextBoolean();
+        }
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data){
+
+        if(resultCode == RESULT_OK && requestCode == 100){
+            regUName = data.getStringExtra("username");
+            regUPass = data.getStringExtra("password");
+        }
     }
 }
