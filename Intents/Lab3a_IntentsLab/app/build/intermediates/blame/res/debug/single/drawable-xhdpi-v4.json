@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_IntentsLab\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ch_mad\\Intents\\Lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\ch_mad\\Intents\\Lab3a_IntentsLab\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

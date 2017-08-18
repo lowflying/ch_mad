@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        jar="C:\Users\10364498\.gradle\caches\modules-2\files-2.1\com.jayway.android.robotium\robotium-solo\5.3.1\e6e664ab1b59d2504c3529f128747c13487f96ca\robotium-solo-5.3.1.jar"
+        jumboMode="false"
         revision="26.0.1"
-        sha1="137972c584d077c4081db66914698b4e094be7da">
-        <dex dex="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea3feabb5e0dca5119f6cf4524865ea3271f31c4\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="26.0.1"
-        sha1="e7b4f1ec133a4a7d98b3eb85436679320ec0a828">
-        <dex dex="C:\Users\10364498\Documents\Projects\MobileApps\Lab3a_IntentsLab\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_805d6ef0fe8989166d1cd6f137bb406a4dc6e20b\classes.dex" />
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="C:\ch_mad\Intents\Lab3a_IntentsLab\app\build\intermediates\pre-dexed\androidTest\debug\robotium-solo-5.3.1_403052930fb666c2a8ec8359d42b742b1dc16066.jar" />
     </item>
 
 </items>

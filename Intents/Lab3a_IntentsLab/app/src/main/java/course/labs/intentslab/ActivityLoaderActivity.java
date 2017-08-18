@@ -70,7 +70,7 @@ public class ActivityLoaderActivity extends Activity {
 
 		
 		// TODO - Start an Activity using that intent and the request code defined above
-		startActivity(explicitIntent);
+		startActivityForResult(explicitIntent, GET_TEXT_REQUEST_CODE);
         
         
 	}
@@ -83,20 +83,21 @@ public class ActivityLoaderActivity extends Activity {
         
 		// TODO - Create a base intent for viewing a URL
 		// (HINT:  second parameter uses Uri.parse())
-		
+        Uri webpage = Uri.parse("http://www.google.com");
+		Intent viewURI = new Intent(Intent.ACTION_VIEW, webpage);
         Intent baseIntent = null;
 		
 		// TODO - Create a chooser intent, for choosing which Activity
 		// will carry out the baseIntent
 		// (HINT: Use the Intent class' createChooser() method)
-		Intent chooserIntent = null;
+		Intent chooserIntent = Intent.createChooser(viewURI, CHOOSER_TEXT);
         
         
 		Log.i(TAG,"Chooser Intent Action:" + chooserIntent.getAction());
         
         
 		// TODO - Start the chooser Activity, using the chooser intent
-
+        startActivity(chooserIntent);
         
 	}
     
@@ -108,6 +109,13 @@ public class ActivityLoaderActivity extends Activity {
 		// TODO - Process the result only if this method received both a
 		// RESULT_OK result code and a recognized request code
 		// If so, update the Textview showing the user-entered text.
+        mUserTextView = (TextView) findViewById(R.id.textView1);
+
+
+		if(resultCode == RESULT_OK && requestCode == GET_TEXT_REQUEST_CODE){
+            mUserTextView.setText(data.getStringExtra("input").toString());
+		}
+
 
 	
     
