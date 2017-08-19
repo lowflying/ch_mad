@@ -97,6 +97,7 @@ public class ActivityLoaderActivity extends Activity {
         
         
 		// TODO - Start the chooser Activity, using the chooser intent
+
         startActivity(chooserIntent);
         
 	}

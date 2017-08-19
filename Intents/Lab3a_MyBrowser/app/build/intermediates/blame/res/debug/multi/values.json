@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "C:\\ch_mad\\Intents\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\ch_mad\\Intents\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 388
                 },
                 "from": {
-                    "file": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\ch_mad\\Intents\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\10364498\\Documents\\Projects\\MobileApps\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\ch_mad\\Intents\\Lab3a_MyBrowser\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

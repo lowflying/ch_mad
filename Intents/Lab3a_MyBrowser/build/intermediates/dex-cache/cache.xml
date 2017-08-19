@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ch_mad\Intents\Lab3a_MyBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="173ac0a34e824a31943a1aa3ea22dc7a4498ca08">
+        <dex dex="C:\ch_mad\Intents\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9d1a573c5d21c959a54564811325c9a64bf41401.jar" />
+    </item>
+    <item
+        jar="C:\ch_mad\Intents\Lab3a_MyBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.1"
+        sha1="d508f3e7e908bbb1dd13f7fa0b65c183d1742620">
+        <dex dex="C:\ch_mad\Intents\Lab3a_MyBrowser\app\build\intermediates\pre-dexed\debug\instant-run_7dd1c02576f5ca08f7d8a1f97b81d90c25991a8b.jar" />
+    </item>
+
+</items>
