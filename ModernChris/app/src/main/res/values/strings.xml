@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernChris</string>
+
+    <string name="dialog">Inspired by the works of Piet Mondrian and Ben Nicholson</string>
+    <string name="more_info">Click below to learn more</string>
+    <string name="moma_site">Visit MOMA</string>
+</resources>
