@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73481201414",
+    "firebase_url": "https://myapp-2098f.firebaseio.com",
+    "project_id": "myapp-2098f",
+    "storage_bucket": "myapp-2098f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73481201414:android:aa79e17646542be2",
+        "android_client_info": {
+          "package_name": "com.cherena.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73481201414-nb0httnbi22noroq94afbsq0srejg16c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kdeqo3kl0XKbSfNmwZ2VnAP7QpX-3Rk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

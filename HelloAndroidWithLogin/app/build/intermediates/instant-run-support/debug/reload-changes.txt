@@ -1,3 +1,0 @@
-CHANGED,C:\ch_mad\HelloAndroidWithLogin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\ch_mad\HelloAndroidWithLogin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\examples\helloworldwithlogin\RegistrationScreen$override.class
-CHANGED,C:\ch_mad\HelloAndroidWithLogin\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\examples\helloworldwithlogin\RegistrationScreen$1$override.class
